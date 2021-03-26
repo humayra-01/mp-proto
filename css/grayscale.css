@@ -153,12 +153,12 @@
 }
 
 .btn-primary:focus {
-  background-color: #4f837f;
+  background-color: #0a1f13;
   color: white;
 }
 
 .btn-primary:active {
-  background-color: #467370 !important;
+  background-color: ##051423 !important;
 }
 
 .about-section {
@@ -195,7 +195,7 @@
     padding: 5rem;
   }
   .projects-section .project-text hr {
-    border-color: #64a19d;
+    border-color: #051423;
     border-width: .25rem;
     width: 30%;
   }
@@ -262,7 +262,7 @@
 }
 
 .contact-section .social a:active {
-  color: #fff;
+  color: ##0a1f13;
 }
 
 body {
